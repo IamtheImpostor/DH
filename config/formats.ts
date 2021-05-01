@@ -403,7 +403,7 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[Gen 8] AbNormal",
+		name: "[Gen 8] Sussy Amogus",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/gen-8-abnormal-v3.3656684/">AbNormal v3</a>`,
 		],

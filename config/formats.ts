@@ -2019,4 +2019,24 @@ export const Formats: FormatList = [
 		ruleset: ['HP Percentage Mod', 'Cancel Mod'],
 	},
 ];
-    
+   // Bonus Randomized Metas
+	///////////////////////////////////////////////////////////////////
+
+	{
+		section: "Bonus Randomized Metas",
+		column: 3,
+	},
+	{
+		name: "Smogoff: Pokemon Edition",
+		mod: 'Smogoff: Pokemon Edition',
+		team: 'random',
+		ruleset: ['Dynamax Clause', 'Obtainable', 'Species Clause', 'Evasion Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod'],
+	},
+		name: "Smogoff: Pokemon Edition (Dynamax)",
+		mod: 'Smogoff: Pokemon Edition',	
+		team: 'random',
+		ruleset: ['Obtainable', 'Species Clause', 'Evasion Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod'],
+	   searchShow: false,
+		challengeShow: false, 
+	},
+	{

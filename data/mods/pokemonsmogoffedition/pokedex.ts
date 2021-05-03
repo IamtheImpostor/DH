@@ -1,7 +1,7 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = }
 	azumarill: {
 		num: 184,
-		name: "Azumarill",
+		name: "A Golden Waddle Dee",
 		types: ["Water", "Fairy"],
 		baseStats: {hp: 100, atk: 50, def: 80, spa: 60, spd: 80, spe: 50},
 		abilities: {0: "Thick Fat", 1: "Huge Power", H: "Sap Sipper"},

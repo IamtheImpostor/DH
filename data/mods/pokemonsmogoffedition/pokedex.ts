@@ -201,8 +201,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = }
 		abilities: {0: "Defiant", 1: "Inner Focus", H: "Top Shagger"},
 		heightm: 1.6,
 		weightkg: 70,
-		otherFormes: ["Total Clefairy-Superlike
-	   formeOrder: ["Total Clefairy", "Total Clefairy-Superlike"],
+		otherFormes: ["Total Clefairy-Superlike],
+      formeOrder: ["Total Clefairy", "Total Clefairy-Superlike"],
    },
 	bisharpsuperlike: {
 		num: 625,
@@ -282,3 +282,12 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = }
 		abilities: {0: "Shed Skin", 1: "Infiltrator", H: "Nitro Saltment"},
 		heightm: 2.7,
 		weightkg: 52.5,	
+   },
+	dewgong: {
+		num: 87,
+		name: "shadowpeashooter",
+		types: ["Water", "Ice"],
+		baseStats: {hp: 90, atk: 70, def: 90, spa: 115, spd: 105, spe: 85},
+		abilities: {0: "Thick Fat", 1: "Hydration", H: "It Is What It Is"},
+		heightm: 1.7,
+		weightkg: 120,

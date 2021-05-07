@@ -202,4 +202,4 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = }
 		heightm: 1.6,
 		weightkg: 70,
 		otherFormes: ["Total Clefairy-Superlike
-		formeOrder: ["Total Clefairy", "Total Clefairy-Superlike"],			  
+		formeOrder: ["Total Clefairy", "Total Clefairy-Superlike"],
